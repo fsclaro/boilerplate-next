@@ -35,3 +35,8 @@ yarn-error.log*
 
 # snapshots
 __snapshots__
+
+# sw stuff
+public/sw.js
+public/workbox-*.js
+

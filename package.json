@@ -1,7 +1,11 @@
 {
-  "name": "fint",
+  "name": "boilerplate",
   "version": "1.0.0",
+  "description": "control finance personal",
   "private": true,
+  "keywords": ["react", "next", "jest", "husky", "storybook"],
+  "author": "Nando",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
