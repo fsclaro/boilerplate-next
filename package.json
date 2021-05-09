@@ -1,7 +1,7 @@
 {
   "name": "boilerplate",
   "version": "1.0.0",
-  "description": "control finance personal",
+  "description": "boilerplate next",
   "private": true,
   "keywords": ["react", "next", "jest", "husky", "storybook"],
   "author": "Nando",
