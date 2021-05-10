@@ -40,3 +40,5 @@ __snapshots__
 public/sw.js
 public/workbox-*.js
 
+# storybook-static
+storybook-static
