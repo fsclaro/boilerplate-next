@@ -13,7 +13,7 @@
   "author": "Nando",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev",
+    "dev": "NODE_OPTIONS='--inspect' next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint src --max-warnings 0 ",
